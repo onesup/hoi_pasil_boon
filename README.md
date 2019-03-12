@@ -1,24 +1,75 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![image](https://user-images.githubusercontent.com/298348/54179146-4654cd00-44db-11e9-91e0-c5d574c5b33c.png)
 
-Things you may want to cover:
+오늘회 경력 커머스 개발자 구인
+=======================
+## Job Description
+- 오늘회 쇼핑몰 개발
 
-* Ruby version
+## 자격요건
+- 루비 혹은 다른 스크립트 언어 개발 3년 이상
+- 단독으로 상업용 프로젝트를 시작부터 끝까지 진행해본 경험
 
-* System dependencies
+## 우대사항
+- JS/CSS 개발에 자신 있는 분
+- Ruby on Rails 개발 경험
+- 커머스 개발 경력 3년 이상
 
-* Configuration
+## 급여조건
+- 4000-6000만원
 
-* Database creation
+![image](https://user-images.githubusercontent.com/298348/54179082-13aad480-44db-11e9-8ef6-b19fce7b8234.png)
 
-* Database initialization
+오늘회 신입 커머스 개발자 구인
+=======================
 
-* How to run the test suite
+## Job Description
+- 배송관제시스템 유지보수
+- 운영팀 업무 자동화 지원
 
-* Services (job queues, cache servers, search engines, etc.)
+## 자격요건
+- 나이/성별/학력/전공/국적 무관 (Welcome foreigner)
+- 엑셀 수식에 대한 이해가 아주 높은 분
+- 엑셀 매크로 작성 경험
+- HTML / CSS 작성 경험
+- JS 개발 경험
 
-* Deployment instructions
+## 우대사항
+- 게임 혹은 브라우저 매크로 작성 경험
+- 구글 스프레드시트 스크립트 작성 경험
+- 한국어 맞춤법, 문법이 어렵지 않은 분
+- 출근 시간 준수할 수 있는 분
+- 컴퓨터공학 비전공자
+- 개발자로 직무 전환하고 싶은 분
 
-* ...
+## 급여조건
+- 1800-2400만원
+
+![image](https://user-images.githubusercontent.com/298348/54179117-2c1aef00-44db-11e9-9a6a-cf746f5bb2c8.png)
+
+# 공통지원자격
+- 병역필 혹은 면제로 해외여행에 결격 사유가 없는 자
+
+# 지원방법
+- 경력 지원의 경우 경력기술서 첨부 필수
+- 경력기술서는 자신의 기술력을 보여 줄 수 있는 프로젝트나 협력했던 활동사항 위주로 작성하시면 됩니다.
+- [tech@onul-hoi.com](tech@onul-hoi.com) 으로 지원
+
+# 전형절차
+- 서류전형
+과제:1 실무진의 문제를 개발 이슈로 전환
+과제:2 개발 완료된 프로그램을 실무진에 전달할 설명서 작성
+- 면접
+- 최종합격
+
+# 기간
+- 2019-03-12 ~ 채용시까지
+
+# 기타
+- 제출서류에 허위기재 또는 기재착오, 구비서류 미제출 등으로 인한 불이익은 응시자 본인의 책임으로 합니다.
+- 제출서류나 각종 증명서의 기재내용이 허위일 경우, 응시를 무효로 하며 합격을 취소합니다.
+- 근무지는 강남구 역삼동 디캠프입니다.
+- 당사 소개 및 기타 자세한 사항은 홈페이지(https://www.onul-hoi.com/) 를 참조하시기 바랍니다.
+
+# 문의
+이 저장소의 이슈로 남겨주시거나, [tech@onul-hoi.com](tech@onul-hoi.com) 메일로 알려주시기 바랍니다.
