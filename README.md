@@ -16,7 +16,7 @@
 - 커머스 개발 경력 3년 이상
 
 ## 급여조건
-- 4000-6000만원
+- 4,000-6,000 만원
 
 ![image](https://user-images.githubusercontent.com/298348/54179082-13aad480-44db-11e9-8ef6-b19fce7b8234.png)
 
@@ -43,7 +43,7 @@
 - 개발자로 직무 전환하고 싶은 분
 
 ## 급여조건
-- 1800-2400만원
+- 2,100-2,400 만원
 
 ![image](https://user-images.githubusercontent.com/298348/54179117-2c1aef00-44db-11e9-9a6a-cf746f5bb2c8.png)
 
